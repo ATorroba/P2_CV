@@ -1,0 +1,14 @@
+html,
+body{
+    padding: 20px;
+    background-color: #0e76a8
+    font-size: 1.2em;
+}
+h1 {text-align: center;}
+img {
+    padding: 5%;
+    width: 30%;
+}
+section {
+    font-size: 1.4em;
+}
